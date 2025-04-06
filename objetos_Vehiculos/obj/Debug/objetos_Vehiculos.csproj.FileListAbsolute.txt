@@ -1,0 +1,7 @@
+C:\Users\Juan\source\repos\objetos_Vehiculos\objetos_Vehiculos\bin\Debug\objetos_Vehiculos.exe.config
+C:\Users\Juan\source\repos\objetos_Vehiculos\objetos_Vehiculos\bin\Debug\objetos_Vehiculos.exe
+C:\Users\Juan\source\repos\objetos_Vehiculos\objetos_Vehiculos\bin\Debug\objetos_Vehiculos.pdb
+C:\Users\Juan\source\repos\objetos_Vehiculos\objetos_Vehiculos\obj\Debug\objetos_Vehiculos.csproj.AssemblyReference.cache
+C:\Users\Juan\source\repos\objetos_Vehiculos\objetos_Vehiculos\obj\Debug\objetos_Vehiculos.csproj.CoreCompileInputs.cache
+C:\Users\Juan\source\repos\objetos_Vehiculos\objetos_Vehiculos\obj\Debug\objetos_Vehiculos.exe
+C:\Users\Juan\source\repos\objetos_Vehiculos\objetos_Vehiculos\obj\Debug\objetos_Vehiculos.pdb
